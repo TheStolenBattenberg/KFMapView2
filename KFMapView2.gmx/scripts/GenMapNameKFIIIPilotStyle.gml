@@ -1,0 +1,32 @@
+///GenMapNameKFIIIJpRev0(list);
+
+ds_list_clear(argument0);
+
+ds_list_add(argument0, GenMapData("Does an NPC say my name?", 0, 1, 2, 0, 0));
+ds_list_add(argument0, GenMapData("Ralugo", 3, 4, 5, 1, 1));
+ds_list_add(argument0, GenMapData("Lake Noel", 6, 7, 8, 2, 2));
+ds_list_add(argument0, GenMapData("Cave of the Dwarf", 9, 10, 11, 3, 3));
+ds_list_add(argument0, GenMapData("Ancient Battlefields", 12, 13, 14, 4, 4));
+ds_list_add(argument0, GenMapData("Forest of Varde", 15, 16, 17, 5, 5));
+ds_list_add(argument0, GenMapData("Cason Village", 18, 19, 20, 6, 6));
+ds_list_add(argument0, GenMapData("Ruins Of High Elves", 21, 22, 23, 7, 7));
+ds_list_add(argument0, GenMapData("Castle Outside", 24, 25, 26, 8, 8));
+ds_list_add(argument0, GenMapData("Hill Of Prayer", 27, 28, 29, 9, 9));
+ds_list_add(argument0, GenMapData("Fields of Ice", 30, 31, 32, 10, 10));
+ds_list_add(argument0, GenMapData("Cave of Garan", 33, 34, 35, 11, 11));
+ds_list_add(argument0, GenMapData("Barracks", 36, 37, 38, 12, 12));
+ds_list_add(argument0, GenMapData("Cave of Shudom", 39, 40, 41, 13, 13));
+ds_list_add(argument0, GenMapData("???", 42, 43, 44, 14, 14));
+ds_list_add(argument0, GenMapData("Passage of Thieves", 45, 46, 47, 15, 15));
+ds_list_add(argument0, GenMapData("Orladin Temple Maze", 48, 49, 50, 16, 16));
+ds_list_add(argument0, GenMapData("Place Of The Beginning", 51, 52, 53, 17, 17));
+ds_list_add(argument0, GenMapData("???", 54, 55, 56, 18, 18));
+ds_list_add(argument0, GenMapData("Royal Graveyard Floor 1", 57, 58, 59, 19, 19));
+ds_list_add(argument0, GenMapData("Royal Graveyard Floor 5", 60, 61, 62, 20, 20));
+ds_list_add(argument0, GenMapData("???", 63, 64, 65, 21, 21));
+ds_list_add(argument0, GenMapData("Verdite Castle Basement", 66, 67, 68, 22, 23));
+ds_list_add(argument0, GenMapData("Verdite Castle Floor 1", 69, 70, 71, 23, 23));
+ds_list_add(argument0, GenMapData("Verdite Castle Floor 2", 72, 73, 74, 24, 24));
+ds_list_add(argument0, GenMapData("???", 75, 76, 77, 25, 25));
+ds_list_add(argument0, GenMapData("???", 78, 79, 80, 26, 26));
+ds_list_add(argument0, GenMapData("???", 81, 82, 83, 27, 27));
